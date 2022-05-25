@@ -35,8 +35,10 @@ os
 1. Extract Input Data into the SECData folder.
 
   a. Each quarter can be found at: https://www.sec.gov/dera/data/financial-statement-data-sets.html. These are arranged as SECData/20XXqX folders
+  
 2. Run FinalDataCleaner.py
-3. Type E, C, or B to Extract data from SEC filing folders, Clean extracted data, or Both extract and clean respectively.
+
+4. Type E, C, or B to Extract data from SEC filing folders, Clean extracted data, or Both extract and clean respectively.
 
   a. Extracting will sort data out of quarterly SEC filings into company specific csv files
   
