@@ -1,0 +1,3 @@
+Place input data here.
+The SEC data sets from here should be extracted into this folder
+https://www.sec.gov/dera/data/financial-statement-data-sets.html
