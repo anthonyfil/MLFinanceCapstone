@@ -10,7 +10,7 @@ import glob
 
 # Grabbing Data
 
-all_files = glob.glob(r"C:\Users\cheri\OneDrive\Documents\Computer Science\CleanedDataF42722\CleanedData" + "/*.csv")
+all_files = glob.glob("CleanedData/" + "/*.csv")
 
 li = []
 
